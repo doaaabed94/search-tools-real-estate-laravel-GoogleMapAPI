@@ -1,0 +1,10 @@
+{
+    "host": "68.178.246.86",
+    "username": "cojayn12vc74",  
+    "password": "o|DZ9K:2k",
+    "port": 21,
+    "protocol": "ftp",
+    "uploadOnSave": true,
+    "remotePath": "/websites/search.deidin.com.tr"
+    
+}
